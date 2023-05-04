@@ -1,3 +1,4 @@
+
 fetch('http://localhost:8080/events', {
         method: 'POST',
         headers: {
@@ -8,3 +9,4 @@ fetch('http://localhost:8080/events', {
     .then(res=>res.json())
     .then(json => console.log(json))
     .catch(err => console.log(err));
+

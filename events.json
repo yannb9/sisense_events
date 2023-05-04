@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "name": "This is my first event",
+      "id": 1234
+    },
+    {
+      "id": 33120,
+      "event": "hello"
+    }
+  ]
+}
