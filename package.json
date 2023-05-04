@@ -1,0 +1,16 @@
+{
+  "name": "sisense_events",
+  "version": "1.0.0",
+  "description": "catch events on this server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yann bohbot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
